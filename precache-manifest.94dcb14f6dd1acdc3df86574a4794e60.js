@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boto-demo/config.json"
   },
   {
-    "revision": "869030dee26edf93e5a4",
+    "revision": "8d7533df519b6560bc51",
     "url": "/boto-demo/css/app.f7fa1178.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boto-demo/css/boto-icons.css"
   },
   {
-    "revision": "e6242ba01fa925e63724",
+    "revision": "c179aec98e0fe03be758",
     "url": "/boto-demo/css/chunk-0182e72a.aad54eb6.css"
   },
   {
@@ -224,16 +224,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boto-demo/img/nft.svg"
   },
   {
-    "revision": "e8444a5e25c8a24cfb02ff1f8b441c84",
+    "revision": "0d9ccdee9bf7a456d9ab1e32f2eedbcf",
     "url": "/boto-demo/index.html"
   },
   {
-    "revision": "869030dee26edf93e5a4",
-    "url": "/boto-demo/js/app.55ad433f.js"
+    "revision": "8d7533df519b6560bc51",
+    "url": "/boto-demo/js/app.d68e75f1.js"
   },
   {
-    "revision": "e6242ba01fa925e63724",
-    "url": "/boto-demo/js/chunk-0182e72a.20b6000b.js"
+    "revision": "c179aec98e0fe03be758",
+    "url": "/boto-demo/js/chunk-0182e72a.8547709f.js"
   },
   {
     "revision": "bc9222137fdfdbce104c",
